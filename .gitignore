@@ -1,3 +1,21 @@
+Skip to content
+ 
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ @bengyuan25 Sign out
+2,664
+72,434 33,684 github/gitignore
+ Code  Pull requests 157  Projects 0  Insights
+gitignore/Android.gitignore
+65d42ea  on 11 Apr
+@shiftkey shiftkey Merge pull request #2648 from leesah/master
+  @arcresu @tral @friederbluemle @callingshotgun @shiftkey @AdrianVovk @Zarkopafilis @whoshuu @evorion @szpssky @SamWhited @esaalii @exarus @neetrath @Neargye @mquigley @malhobayyeb @kevinmost @vitorprado @jsoref @jshou @HIPERCUBE @jschmid @PR3x @izuzak @FionaHagen
+     
+66 lines (50 sloc)  1002 Bytes
 # Built application files
 *.apk
 *.ap_
@@ -63,3 +81,16 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Press h to open a hovercard with more details.
