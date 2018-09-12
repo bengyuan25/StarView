@@ -16,7 +16,7 @@ allprojects {
 
 ```
 dependencies {
-    implementation 'com.c.gaoyuan.StarView:1.0.0'
+    implementation 'com.c.gaoyuan.StarView:StarViewLib:1.0.0'
 }
 ```
 ## Use
